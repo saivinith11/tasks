@@ -1,0 +1,21 @@
+{
+  "name": "ranking-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "app.js": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cron": "^3.1.7",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "node-cron": "^3.0.3"
+  }
+}
